@@ -1,0 +1,5 @@
+com\lizaiatsenko\com\JBossWildFlyTry\controller\MemberController.class
+com\lizaiatsenko\com\JBossWildFlyTry\data\MemberDao.class
+com\lizaiatsenko\com\JBossWildFlyTry\controller\MemberRestController.class
+com\lizaiatsenko\com\JBossWildFlyTry\model\Member.class
+com\lizaiatsenko\com\JBossWildFlyTry\data\MemberDaoImpl.class
